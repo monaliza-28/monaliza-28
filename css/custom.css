@@ -1,0 +1,19 @@
+/* global settings */
+*{
+    box-sizing: border-box;
+}
+section{
+    max-width: 1190px;
+    margin:2px auto;
+    
+}
+/* target box container */
+.box{
+    float: left;
+    width:32%;
+    background:#f4f4f3;
+    border:1px solid #444;
+    text-align: center;
+    padding:20px;
+    margin-left:10px;
+}
